@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/songs"
+        android:icon="@drawable/baseline_music_note_24"
+        android:title="@string/nav_song"  />
+    <item
+        android:id="@+id/favourite"
+        android:icon="@drawable/favourite"
+        android:title="@string/nav_favourite" />
+
+</menu>

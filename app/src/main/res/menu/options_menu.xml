@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/play_"
+        android:icon="@drawable/playbtn"
+        android:title="@string/option_play" />
+
+    <item
+        android:id="@+id/fav_"
+        android:icon="@drawable/unfavourite"
+        android:title="@string/option_favourite" />
+
+</menu>
