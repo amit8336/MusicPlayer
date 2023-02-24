@@ -26,6 +26,7 @@
             app:tint="@android:color/white" />
 
         <LinearLayout
+            android:layout_marginStart="10dp"
             android:layout_width="300dp"
             android:layout_height="match_parent"
             android:orientation="vertical">

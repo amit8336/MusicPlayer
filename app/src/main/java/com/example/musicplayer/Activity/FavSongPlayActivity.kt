@@ -58,7 +58,7 @@ class FavSongPlayActivity : AppCompatActivity(), PlayerInterface {
 
         click()
         playMusic()
-        setTitleAndArtistName()
+
     }
 
     fun click() {
@@ -98,6 +98,7 @@ class FavSongPlayActivity : AppCompatActivity(), PlayerInterface {
             nextSong()
         }
         setSeekBar()
+        setTitleAndArtistName()
     }
 
     private fun setSeekBar() {
